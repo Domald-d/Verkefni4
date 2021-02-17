@@ -1,1 +1,2 @@
-# Verkefni5
+# Verkefni4
+# Simon says
